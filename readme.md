@@ -5,7 +5,7 @@ use promises. For those who prefer promises to callbacks.
 
 ## Installation
 
-npm install mongodb-p
+    npm install mongodb-p
 
 ## Usage
 
@@ -111,7 +111,7 @@ Find All Documents
 ## MongoDB Node.JS Driver Documentation
 
 This wrapper is incomplete and untested but is intended to work exactly like the mongo native driver but instead of 
-using callback functions, asynchronous task use promises instead.
+using callback functions, asynchronous tasks use promises instead.
  
 | what          | where                                          |
 |---------------|------------------------------------------------|
