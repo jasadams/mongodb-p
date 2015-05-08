@@ -1,7 +1,7 @@
 {
   "name": "mongodb-p",
   "version": "0.1.0",
-  "description": "Promise wrapper for mongodb native driver",
+  "description": "Promise wrapper for the mongodb native driver",
   "main": "index.js",
   "repository": {
     "type": "git",
