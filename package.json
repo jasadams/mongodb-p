@@ -1,6 +1,6 @@
 {
   "name": "mongodb-p",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Promise wrapper for the mongodb native driver",
   "main": "index.js",
   "repository": {
@@ -12,7 +12,9 @@
     "driver",
     "promise"
   ],
-  "engines" : { "node" : ">=0.12" },
+  "engines": {
+    "node": ">=0.12"
+  },
   "dependencies": {
     "mongodb": "~2.0.28"
   },
